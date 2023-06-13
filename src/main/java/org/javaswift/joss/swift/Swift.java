@@ -46,7 +46,7 @@ import org.javaswift.joss.swift.statusgenerator.StatusGenerator;
 import org.javaswift.joss.util.LocalTime;
 
 /**
-* Mock implementation of the Swift Object Store
+* the Mock implementation of the Swift Object Store
 */
 public class Swift {
 
